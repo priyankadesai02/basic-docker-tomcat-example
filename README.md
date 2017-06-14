@@ -1,5 +1,5 @@
 <figure>
-<img src="http://dchq.co/uploads/3/4/8/3/34833816/hypergridlogo-horiz-1800px_1_orig.png" alt="" />
+<img src="http://www.hypergrid.com/wp-content/themes/hypergrid/img/logo.png" alt="" />
 </figure>
 
 HyperGrid - Basic Docker Tomcat Example 
