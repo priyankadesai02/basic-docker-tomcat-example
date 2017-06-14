@@ -1,8 +1,8 @@
 <figure>
-<img src="http://ww1.prweb.com/prfiles/2015/07/21/12907174/gI_146921_dchq-logo.png" alt="" />
+<img src="http://hypergrid.com/wp-content/uploads/2017/05/HyperGrid-logo-vert.png" alt="" />
 </figure>
 
-DCHQ - Basic Docker Tomcat Example 
+HyperGrid - Basic Docker Tomcat Example 
 ===========================
 
 This is the most basic Docker Tomcat example to demonstrate how an image is built using a Dockerfile that copies a sample Java WAR file. Once you build your own Tomcat image, you can push it to your Docker Hub repository and then run a container using this image on any Linux host that is Docker-enabled.
@@ -11,7 +11,7 @@ This is the most basic Docker Tomcat example to demonstrate how an image is buil
 
 You can clone this project:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-git clone https://github.com/dchqinc/basic-docker-tomcat-example.git
+git clone https://github.com/hypergrid-inc/basic-docker-tomcat-example.git
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ### Build an image using the cloned project
